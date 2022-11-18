@@ -1,0 +1,1 @@
+export const shortenAddress = (address) => `${address.slice(0, 5)}...${address.slice(address.length - 4)}`;  // tomando los 5 primeros y mostrando los ultimos 4 
