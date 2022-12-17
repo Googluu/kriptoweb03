@@ -13,7 +13,7 @@ const Footer = () => {
           <p className="text-white text-base text-center mx-2 cursor-pointer">Exchange</p>
           <p className="text-white text-base text-center mx-2 cursor-pointer">Tutorials</p>
           <p className="text-white text-base text-center mx-2 cursor-pointer">Wallets</p>
-          <a href="https://github.com/Googluu/kriptoweb03/tree/07-step"><AiFillGithub fontSize={35} /></a>
+          <a href="https://github.com/Googluu/kriptoweb03"><AiFillGithub fontSize={35} /></a>
         </div>
       </div>
       <div className="flex justify-center items-center flex-col mt-5">
